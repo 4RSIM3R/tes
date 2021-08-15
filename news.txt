@@ -1,1 +1,1 @@
-Assalamualaikum, news.txt
+Assalamualaikum, news.txt, dengan menggunakan aplikasi vscode dan sublime text, maka saya membuat ini dengan bahasa dart dan framework flutter, ok disini saya membuat repo dengan menggunakan git maka saya bisa mengupload kedalam github dengan aplikasi tersebut, saya sangat senang karena bisa menggunakan aplikasi yang sangat bermanfaat.wkwk cuma tes keyboard :D.
